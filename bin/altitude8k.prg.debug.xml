@@ -2,290 +2,243 @@
 <debugInfo>
 <pcToLineNum>
 <entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="38" pc="268435458" symbol="onLayout"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="39" pc="268435481" symbol="onLayout"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="40" pc="268435524" symbol="onLayout"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="51" pc="268435573" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="52" pc="268435609" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="58" pc="268435621" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="59" pc="268435638" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="61" pc="268435694" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="63" pc="268435694" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="64" pc="268435704" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="65" pc="268435714" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="68" pc="268435724" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="69" pc="268435733" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="70" pc="268435769" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="71" pc="268435794" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="72" pc="268435806" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="73" pc="268435849" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="75" pc="268435882" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="76" pc="268435925" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="77" pc="268435955" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="78" pc="268435987" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="79" pc="268436038" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="82" pc="268436129" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="83" pc="268436141" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="84" pc="268436184" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="86" pc="268436217" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="87" pc="268436260" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="88" pc="268436290" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="89" pc="268436322" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="90" pc="268436373" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="93" pc="268436464" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="94" pc="268436476" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="95" pc="268436519" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="97" pc="268436552" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="98" pc="268436595" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="99" pc="268436625" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="100" pc="268436657" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="101" pc="268436708" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="104" pc="268436799" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="105" pc="268436811" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="106" pc="268436854" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="108" pc="268436887" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="109" pc="268436930" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="110" pc="268436960" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="111" pc="268436992" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="112" pc="268437024" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="113" pc="268437075" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="116" pc="268437180" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="117" pc="268437192" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="118" pc="268437235" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="120" pc="268437268" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="121" pc="268437311" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="122" pc="268437341" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="123" pc="268437373" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="124" pc="268437405" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="125" pc="268437456" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="128" pc="268437547" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="129" pc="268437559" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="130" pc="268437602" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="132" pc="268437635" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="133" pc="268437678" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="134" pc="268437708" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="135" pc="268437740" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="136" pc="268437791" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="139" pc="268437882" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="140" pc="268437894" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="141" pc="268437937" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="143" pc="268437970" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="144" pc="268438013" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="51" pc="268435487" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="52" pc="268435523" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="58" pc="268435535" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="59" pc="268435552" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="61" pc="268435608" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="63" pc="268435608" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="64" pc="268435618" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="65" pc="268435628" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="68" pc="268435638" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="69" pc="268435647" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="70" pc="268435683" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="71" pc="268435690" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="72" pc="268435715" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="73" pc="268435758" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="74" pc="268435788" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="75" pc="268435799" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="76" pc="268435831" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="77" pc="268435882" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="80" pc="268435976" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="81" pc="268436019" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="82" pc="268436049" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="83" pc="268436060" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="84" pc="268436092" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="85" pc="268436143" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="88" pc="268436237" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="89" pc="268436280" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="90" pc="268436310" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="91" pc="268436321" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="92" pc="268436353" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="93" pc="268436404" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="96" pc="268436498" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="97" pc="268436541" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="98" pc="268436571" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="99" pc="268436582" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="100" pc="268436614" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="101" pc="268436646" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="102" pc="268436697" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="105" pc="268436805" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="106" pc="268436848" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="107" pc="268436878" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="108" pc="268436889" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="109" pc="268436921" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="110" pc="268436953" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="111" pc="268437004" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="115" pc="268437098" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="116" pc="268437141" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="117" pc="268437171" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="118" pc="268437182" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="119" pc="268437214" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="120" pc="268437265" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="123" pc="268437359" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="124" pc="268437402" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="125" pc="268437432" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="126" pc="268437443" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="127" pc="268437475" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="128" pc="268437526" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="131" pc="268437634" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="132" pc="268437677" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="133" pc="268437707" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="134" pc="268437718" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="135" pc="268437750" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="136" pc="268437782" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="137" pc="268437833" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="140" pc="268437927" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="141" pc="268437970" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="143" pc="268438000" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="144" pc="268438011" symbol="onUpdate"/>
 <entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="145" pc="268438043" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="146" pc="268438075" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="147" pc="268438126" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="150" pc="268438231" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="151" pc="268438243" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="152" pc="268438286" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="154" pc="268438319" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="155" pc="268438362" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="156" pc="268438392" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="157" pc="268438424" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="158" pc="268438456" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="159" pc="268438507" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="162" pc="268438598" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="163" pc="268438610" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="164" pc="268438653" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="166" pc="268438686" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="167" pc="268438729" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="168" pc="268438759" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="169" pc="268438791" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="170" pc="268438842" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="171" pc="268438905" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="174" pc="268439010" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="175" pc="268439022" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="176" pc="268439065" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="178" pc="268439098" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="179" pc="268439141" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="180" pc="268439171" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="181" pc="268439203" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="182" pc="268439235" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="183" pc="268439267" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="184" pc="268439318" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="187" pc="268439409" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="188" pc="268439421" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="189" pc="268439464" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="191" pc="268439497" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="192" pc="268439540" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="193" pc="268439570" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="194" pc="268439602" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="195" pc="268439653" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="198" pc="268439744" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="199" pc="268439756" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="200" pc="268439799" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="202" pc="268439832" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="203" pc="268439875" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="204" pc="268439905" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="205" pc="268439937" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="206" pc="268439988" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="209" pc="268440079" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="210" pc="268440091" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="211" pc="268440134" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="213" pc="268440167" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="214" pc="268440210" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="215" pc="268440240" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="216" pc="268440272" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="217" pc="268440323" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="220" pc="268440414" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="221" pc="268440426" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="222" pc="268440469" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="224" pc="268440502" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="225" pc="268440545" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="226" pc="268440575" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="227" pc="268440607" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="228" pc="268440658" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="231" pc="268440724" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="232" pc="268440736" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="233" pc="268440779" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="235" pc="268440812" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="236" pc="268440855" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="237" pc="268440885" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="238" pc="268440917" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="239" pc="268440968" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="243" pc="268441031" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="244" pc="268441067" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="245" pc="268441085" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="246" pc="268441096" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="247" pc="268441106" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="248" pc="268441228" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="252" pc="268441353" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="253" pc="268441475" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="255" pc="268441597" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="255" pc="268441608" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="256" pc="268441618" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="257" pc="268441670" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="260" pc="268441725" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="261" pc="268441777" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="265" pc="268441829" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="266" pc="268441865" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="267" pc="268441940" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="268" pc="268442015" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="269" pc="268442051" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="273" pc="268442126" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="274" pc="268442162" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="275" pc="268442162" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="276" pc="268442180" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="278" pc="268442226" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="281" pc="268442269" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="282" pc="268442329" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="285" pc="268442404" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="287" pc="268442415" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="288" pc="268442435" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="290" pc="268442468" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="294" pc="268442498" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="296" pc="268442554" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="297" pc="268442564" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="298" pc="268442600" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="302" pc="268442749" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="303" pc="268442760" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="305" pc="268442810" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="307" pc="268442860" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="309" pc="268442910" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="311" pc="268442949" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="313" pc="268442985" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="315" pc="268443048" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="316" pc="268443059" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="318" pc="268443109" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="320" pc="268443159" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="322" pc="268443209" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="324" pc="268443248" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="327" pc="268443284" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="328" pc="268443347" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="332" pc="268443383" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="333" pc="268443406" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="334" pc="268443419" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="335" pc="268443455" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="336" pc="268443487" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="336" pc="268443498" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="337" pc="268443537" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="338" pc="268443569" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="339" pc="268443601" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="339" pc="268443612" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="340" pc="268443662" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="341" pc="268443701" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="342" pc="268443737" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="343" pc="268443787" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="344" pc="268443823" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="345" pc="268443842" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="349" pc="268443890" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="350" pc="268443909" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="351" pc="268443925" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="352" pc="268443935" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="353" pc="268443945" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="354" pc="268443961" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="356" pc="268443997" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="357" pc="268444010" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="360" pc="268444029" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="361" pc="268444080" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="362" pc="268444131" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="363" pc="268444188" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="366" pc="268444245" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="367" pc="268444258" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="368" pc="268444275" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="369" pc="268444311" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="370" pc="268444348" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="371" pc="268444384" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="374" pc="268444455" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="375" pc="268444491" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="376" pc="268444528" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="377" pc="268444564" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="380" pc="268444635" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="381" pc="268444671" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="382" pc="268444708" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="383" pc="268444744" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="386" pc="268444815" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="387" pc="268444851" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="388" pc="268444888" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="389" pc="268444924" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="391" pc="268444995" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="392" pc="268445031" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="393" pc="268445068" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="394" pc="268445104" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="416" pc="268445167" symbol="onExitSleep"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="417" pc="268445177" symbol="onExitSleep"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="422" pc="268445196" symbol="onEnterSleep"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="423" pc="268445206" symbol="onEnterSleep"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="19" pc="268445534" symbol="&lt;init&gt;"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="31" pc="268447948" symbol="&lt;init&gt;"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="33" pc="268447958" symbol="&lt;init&gt;"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kApp.mc" lineNum="15" pc="268445232" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="5" pc="268448270" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="10" pc="268447987" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="11" pc="268447996" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="12" pc="268448005" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="13" pc="268448014" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="14" pc="268448023" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="15" pc="268448032" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="16" pc="268448041" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="17" pc="268448050" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="18" pc="268448059" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="19" pc="268448068" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="20" pc="268448077" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="21" pc="268448086" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="22" pc="268448095" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="23" pc="268448104" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="24" pc="268448113" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="25" pc="268448122" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="26" pc="268448131" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="27" pc="268448140" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="28" pc="268448149" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="29" pc="268448158" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="30" pc="268448167" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="31" pc="268448176" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="32" pc="268448185" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="33" pc="268448194" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="34" pc="268448203" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="35" pc="268448212" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="36" pc="268448221" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="37" pc="268448230" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="38" pc="268448239" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="39" pc="268448248" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="40" pc="268448257" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="49" pc="268445273" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="50" pc="268445287" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="51" pc="268445384" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="52" pc="268445399" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="53" pc="268445451" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="54" pc="268445497" symbol="WatchFace"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="146" pc="268438094" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="147" pc="268438157" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="150" pc="268438265" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="151" pc="268438308" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="152" pc="268438338" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="153" pc="268438349" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="154" pc="268438381" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="155" pc="268438413" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="156" pc="268438445" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="157" pc="268438496" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="160" pc="268438590" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="161" pc="268438633" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="162" pc="268438663" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="163" pc="268438674" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="164" pc="268438706" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="165" pc="268438757" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="168" pc="268438851" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="169" pc="268438894" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="170" pc="268438924" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="171" pc="268438935" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="172" pc="268438967" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="173" pc="268439018" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="176" pc="268439112" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="177" pc="268439155" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="178" pc="268439185" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="179" pc="268439196" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="180" pc="268439228" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="181" pc="268439279" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="184" pc="268439373" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="185" pc="268439416" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="186" pc="268439446" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="187" pc="268439457" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="188" pc="268439489" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="189" pc="268439540" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="192" pc="268439609" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="193" pc="268439652" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="194" pc="268439682" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="195" pc="268439693" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="196" pc="268439725" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="197" pc="268439776" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="201" pc="268439842" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="202" pc="268439878" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="203" pc="268439896" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="204" pc="268439907" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="205" pc="268439917" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="206" pc="268439980" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="210" pc="268440046" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="211" pc="268440109" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="213" pc="268440172" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="213" pc="268440183" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="214" pc="268440193" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="215" pc="268440245" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="218" pc="268440300" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="219" pc="268440352" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="223" pc="268440404" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="224" pc="268440411" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="224" pc="268440428" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="225" pc="268440438" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="226" pc="268440474" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="227" pc="268440534" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="228" pc="268440594" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="229" pc="268440630" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="233" pc="268440728" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="234" pc="268440764" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="235" pc="268440764" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="236" pc="268440782" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="238" pc="268440828" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="241" pc="268440871" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="242" pc="268440931" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="245" pc="268441006" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="254" pc="268441017" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="256" pc="268441073" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="257" pc="268441083" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="258" pc="268441119" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="262" pc="268441291" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="263" pc="268441302" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="265" pc="268441352" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="267" pc="268441402" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="269" pc="268441452" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="271" pc="268441491" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="273" pc="268441527" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="275" pc="268441590" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="276" pc="268441601" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="278" pc="268441651" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="280" pc="268441701" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="282" pc="268441751" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="284" pc="268441790" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="287" pc="268441826" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="288" pc="268441889" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="292" pc="268441925" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="293" pc="268441948" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="294" pc="268441961" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="295" pc="268441997" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="296" pc="268442029" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="296" pc="268442040" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="297" pc="268442079" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="298" pc="268442111" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="299" pc="268442143" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="299" pc="268442154" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="300" pc="268442204" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="301" pc="268442243" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="302" pc="268442279" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="303" pc="268442329" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="304" pc="268442365" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="305" pc="268442384" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="309" pc="268442432" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="310" pc="268442451" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="311" pc="268442467" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="312" pc="268442477" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="313" pc="268442487" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="314" pc="268442503" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="316" pc="268442539" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="317" pc="268442552" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="320" pc="268442571" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="321" pc="268442622" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="322" pc="268442673" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="323" pc="268442730" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="326" pc="268442787" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="327" pc="268442800" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="328" pc="268442817" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="329" pc="268442853" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="330" pc="268442890" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="331" pc="268442926" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="334" pc="268442997" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="335" pc="268443033" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="336" pc="268443070" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="337" pc="268443106" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="340" pc="268443177" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="341" pc="268443213" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="342" pc="268443250" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="343" pc="268443286" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="346" pc="268443357" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="347" pc="268443393" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="348" pc="268443430" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="349" pc="268443466" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="351" pc="268443537" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="352" pc="268443573" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="353" pc="268443610" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="354" pc="268443646" symbol="onUpdate"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="376" pc="268443709" symbol="onExitSleep"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="377" pc="268443719" symbol="onExitSleep"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="382" pc="268443738" symbol="onEnterSleep"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="383" pc="268443748" symbol="onEnterSleep"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="19" pc="268444076" symbol="&lt;init&gt;"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="31" pc="268446490" symbol="&lt;init&gt;"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="33" pc="268446500" symbol="&lt;init&gt;"/>
+<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kApp.mc" lineNum="15" pc="268443774" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="5" pc="268446668" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="10" pc="268446529" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="11" pc="268446538" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="12" pc="268446547" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="13" pc="268446556" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="14" pc="268446565" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="15" pc="268446574" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="16" pc="268446583" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="17" pc="268446592" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="18" pc="268446601" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="19" pc="268446610" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="20" pc="268446619" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="21" pc="268446628" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="22" pc="268446637" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="23" pc="268446646" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="24" pc="268446655" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="33" pc="268443815" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="34" pc="268443829" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="35" pc="268443926" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="36" pc="268443941" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="37" pc="268443993" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="38" pc="268444039" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389359" symbol="&lt;gre&gt;"/>
@@ -342,7 +295,7 @@
 <entry field="true" id="8388811" symbol="INVALID_HTTP_BODY_IN_REQUEST"/>
 <entry field="true" id="8388750" symbol="currentCadence"/>
 <entry id="8388629" module="true" symbol="Toybox_Application"/>
-<entry field="true" id="35" symbol="id_everestline"/>
+<entry field="true" id="21" symbol="id_everestline"/>
 <entry field="true" id="8389522" symbol="serial"/>
 <entry id="8388944" method="true" symbol="compare"/>
 <entry id="8389019" object="true" symbol="SwipeEvent"/>
@@ -379,7 +332,7 @@
 <entry id="8388659" method="true" symbol="testAbs"/>
 <entry field="true" id="8388989" symbol="dutyCycle"/>
 <entry id="8389043" object="true" symbol="ProgressBar"/>
-<entry field="true" id="51" symbol="AppName"/>
+<entry field="true" id="35" symbol="AppName"/>
 <entry field="true" id="8388927" symbol="SECONDS_PER_YEAR"/>
 <entry id="8389418" object="true" symbol="CommonData"/>
 <entry id="8389114" method="true" symbol="getType"/>
@@ -448,7 +401,6 @@
 <entry id="8388701" method="true" symbol="callback2"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="8388700" method="true" symbol="callback1"/>
-<entry field="true" id="23" symbol="id_dhaulagiri"/>
 <entry id="8388699" method="true" symbol="stop"/>
 <entry field="true" id="8388855" symbol="SUB_SPORT_SPIN"/>
 <entry id="8388668" method="true" symbol="testBitwiseOr"/>
@@ -485,12 +437,11 @@
 <entry field="true" id="8389153" symbol="FONT_TINY"/>
 <entry id="8389433" object="true" symbol="CalculatedPower"/>
 <entry id="8388932" symbol="getDayHash"/>
-<entry field="true" id="36" symbol="id_chooyuline"/>
+<entry field="true" id="22" symbol="id_chooyuline"/>
 <entry id="8389534" module="true" symbol="PersistedLocations"/>
 <entry id="8389347" symbol="color"/>
 <entry field="true" id="8389156" symbol="FONT_LARGE"/>
 <entry field="true" id="8389004" symbol="KEY_UP_LEFT"/>
-<entry field="true" id="22" symbol="id_chooyu"/>
 <entry id="8388886" symbol="Toybox_ActivityRecording_Session"/>
 <entry id="8388687" method="true" symbol="testLocationSemicircles"/>
 <entry field="true" id="8389216" symbol="MSG_CODE_EVENT_RX_SEARCH_TIMEOUT"/>
@@ -509,7 +460,6 @@
 <entry id="8389142" method="true" symbol="getProfile"/>
 <entry id="8389188" method="true" symbol="fillRectangle"/>
 <entry id="8388729" object="true" symbol="Info"/>
-<entry field="true" id="25" symbol="id_kangen"/>
 <entry id="19" module="true" symbol="Layouts"/>
 <entry id="8388710" object="true" symbol="Stats"/>
 <entry field="true" id="8389152" symbol="FONT_XTINY"/>
@@ -519,8 +469,6 @@
 <entry field="true" id="8388830" symbol="SPORT_GENERIC"/>
 <entry field="true" id="8388999" symbol="KEY_DOWN_LEFT"/>
 <entry id="8388885" method="true" symbol="getGeometry"/>
-<entry field="true" id="27" symbol="id_makalu"/>
-<entry field="true" id="49" symbol="id_bt"/>
 <entry id="8389082" method="true" symbol="onNextMode"/>
 <entry field="true" id="8389551" symbol="PRESS_TYPE_UP"/>
 <entry field="true" id="11" symbol="device_settings"/>
@@ -531,7 +479,7 @@
 <entry id="8389186" method="true" symbol="fillEllipse"/>
 <entry id="8389049" method="true" symbol="pushView"/>
 <entry field="true" id="8389312" symbol="when"/>
-<entry field="true" id="44" symbol="id_annapurnaline"/>
+<entry field="true" id="30" symbol="id_annapurnaline"/>
 <entry id="8389080" method="true" symbol="onMenu"/>
 <entry id="8388956" method="true" symbol="setEnabledSensors"/>
 <entry id="8388619" module="true" symbol="Toybox_ActivityMonitor"/>
@@ -573,7 +521,7 @@
 <entry field="true" id="8389462" symbol="WEIGHT_SCALE_STATUS_CNT"/>
 <entry id="8388716" method="true" symbol="trap"/>
 <entry id="8388652" method="true" symbol="testCreateSession"/>
-<entry field="true" id="40" symbol="id_lothseline"/>
+<entry field="true" id="26" symbol="id_lothseline"/>
 <entry field="true" id="8389396" symbol="UNIT_STATUTE"/>
 <entry field="true" id="8388725" symbol="usedMemory"/>
 <entry field="true" id="8389453" symbol="WEIGHT_SCALE_ACTIVITY_LEVEL_RESERVED"/>
@@ -583,7 +531,6 @@
 <entry field="true" id="8388748" symbol="averageHeartRate"/>
 <entry id="8389568" method="true" symbol="runTest"/>
 <entry id="8389327" symbol="september"/>
-<entry field="true" id="31" symbol="id_broadpeak"/>
 <entry id="8389132" method="true" symbol="setFont"/>
 <entry field="true" id="8389519" symbol="torque"/>
 <entry field="true" id="8389529" symbol="userProfileSelected"/>
@@ -622,7 +569,6 @@
 <entry id="8388643" module="true" symbol="Sensor"/>
 <entry id="8388987" method="true" symbol="vibrate"/>
 <entry id="8388905" method="true" symbol="tan"/>
-<entry field="true" id="29" symbol="id_nanga"/>
 <entry id="8388766" object="true" symbol="Array"/>
 <entry field="true" id="8389225" symbol="MSG_CODE_CHANNEL_ID_NOT_SET"/>
 <entry id="8388773" method="true" symbol="toFloat"/>
@@ -713,7 +659,7 @@
 <entry id="8389283" method="true" symbol="setProperty"/>
 <entry field="true" id="8389089" symbol="MAX_SIZE"/>
 <entry field="true" id="8389401" symbol="is24Hour"/>
-<entry field="true" id="45" symbol="id_broadpeakline"/>
+<entry field="true" id="31" symbol="id_broadpeakline"/>
 <entry id="8389464" object="true" symbol="WeightScaleBasicReading"/>
 <entry field="true" id="8389145" symbol="wakeTime"/>
 <entry field="true" id="8388938" symbol="month"/>
@@ -748,7 +694,7 @@
 <entry id="8389409" module="true" symbol="Toybox_AntPlus"/>
 <entry field="true" id="8388800" symbol="UNKNOWN_ERROR"/>
 <entry id="8388760" object="true" symbol="Float"/>
-<entry field="true" id="37" symbol="id_dhaulagiriline"/>
+<entry field="true" id="23" symbol="id_dhaulagiriline"/>
 <entry id="8389081" method="true" symbol="onBack"/>
 <entry field="true" id="8389044" symbol="SLIDE_IMMEDIATE"/>
 <entry field="true" id="8388757" symbol="currentHeading"/>
@@ -800,7 +746,7 @@
 <entry id="8388612" module="true" symbol="Toybox_Test"/>
 <entry field="true" id="8389411" symbol="BATT_STATUS_NEW"/>
 <entry id="8389028" object="true" symbol="MenuInputDelegate"/>
-<entry field="true" id="46" symbol="id_brum1line"/>
+<entry field="true" id="32" symbol="id_brum1line"/>
 <entry id="8388705" method="true" symbol="callback"/>
 <entry field="true" id="8389528" symbol="batteryVoltage"/>
 <entry field="true" id="8389314" symbol="latitude"/>
@@ -831,7 +777,6 @@
 <entry id="8389094" method="true" symbol="setTitle"/>
 <entry field="true" id="8389562" symbol="KEY_CLOCK"/>
 <entry field="true" id="8389074" symbol="BEHAVIOR_ON_MENU"/>
-<entry field="true" id="30" symbol="id_annapurna"/>
 <entry id="8389052" object="true" symbol="FontResource"/>
 <entry id="8388765" object="true" symbol="Symbol"/>
 <entry id="8389284" method="true" symbol="deleteProperty"/>
@@ -846,7 +791,7 @@
 <entry field="true" id="8389230" symbol="NETWORK_PLUS"/>
 <entry field="true" id="8389414" symbol="BATT_STATUS_LOW"/>
 <entry field="true" id="8388846" symbol="SPORT_MOUNTAINEERING"/>
-<entry field="true" id="42" symbol="id_manasluline"/>
+<entry field="true" id="28" symbol="id_manasluline"/>
 <entry id="8388908" object="true" symbol="History"/>
 <entry field="true" id="15" symbol="activ_alt"/>
 <entry field="true" id="8388731" symbol="startTime"/>
@@ -902,7 +847,6 @@
 <entry field="true" id="8388843" symbol="SPORT_ALPINE_SKIING"/>
 <entry field="true" id="8389262" symbol="DEFAULT_DEVICE_NUMBER"/>
 <entry field="true" id="8389543" symbol="phoneConnected"/>
-<entry field="true" id="28" symbol="id_manaslu"/>
 <entry id="8388904" method="true" symbol="srand"/>
 <entry field="true" id="8389413" symbol="BATT_STATUS_OK"/>
 <entry field="true" id="8389399" symbol="vibrateOn"/>
@@ -928,8 +872,6 @@
 <entry field="true" id="8388814" symbol="INVALID_HTTP_BODY_IN_NETWORK_RESPONSE"/>
 <entry field="true" id="8389048" symbol="SLIDE_UP"/>
 <entry field="true" id="8388973" symbol="TONE_INTERVAL_ALERT"/>
-<entry field="true" id="33" symbol="id_brum2"/>
-<entry field="true" id="32" symbol="id_brum1"/>
 <entry id="8389298" object="true" symbol="Location"/>
 <entry field="true" id="8389523" symbol="swRevisionMain"/>
 <entry id="8388715" method="true" symbol="getSystemStats"/>
@@ -951,7 +893,7 @@
 <entry id="8388647" module="true" symbol="UserProfile"/>
 <entry field="true" id="8389011" symbol="CLICK_TYPE_TAP"/>
 <entry field="true" id="8388953" symbol="SENSOR_FOOTPOD"/>
-<entry field="true" id="41" symbol="id_makaluline"/>
+<entry field="true" id="27" symbol="id_makaluline"/>
 <entry field="true" id="8389071" symbol="BEHAVIOR_NONE"/>
 <entry id="8388623" module="true" symbol="Toybox_Sensor"/>
 <entry id="8389397" object="true" symbol="DeviceSettings"/>
@@ -998,7 +940,6 @@
 <entry field="true" id="8388866" symbol="SUB_SPORT_STAIR_CLIMBING"/>
 <entry id="8389437" object="true" symbol="PedalPowerBalance"/>
 <entry field="true" id="8388805" symbol="BLE_REQUEST_CANCELLED"/>
-<entry field="true" id="24" symbol="id_k2west"/>
 <entry id="8388776" method="true" symbol="toDouble"/>
 <entry id="8388825" object="true" symbol="ConnectionListener"/>
 <entry id="8388698" method="true" symbol="start"/>
@@ -1114,7 +1055,6 @@
 <entry id="8388791" method="true" symbol="remove"/>
 <entry field="true" id="8389292" symbol="GEO_MGRS"/>
 <entry field="true" id="8389003" symbol="KEY_UP"/>
-<entry field="true" id="21" symbol="id_everest"/>
 <entry id="8388782" method="true" symbol="size"/>
 <entry id="8388661" method="true" symbol="testBreak"/>
 <entry field="true" id="8388915" symbol="isSleepMode"/>
@@ -1122,7 +1062,7 @@
 <entry id="8389022" object="true" symbol="InputEvent"/>
 <entry field="true" id="8389452" symbol="WEIGHT_SCALE_ACTIVITY_LEVEL_6"/>
 <entry field="true" id="8389451" symbol="WEIGHT_SCALE_ACTIVITY_LEVEL_5"/>
-<entry field="true" id="48" symbol="id_shishaline"/>
+<entry field="true" id="34" symbol="id_shishaline"/>
 <entry id="8388711" method="true" symbol="println"/>
 <entry field="true" id="8389450" symbol="WEIGHT_SCALE_ACTIVITY_LEVEL_4"/>
 <entry field="true" id="8389449" symbol="WEIGHT_SCALE_ACTIVITY_LEVEL_3"/>
@@ -1156,7 +1096,7 @@
 <entry field="true" id="8389162" symbol="COLOR_DK_RED"/>
 <entry id="8389512" method="true" symbol="getCalculatedPower"/>
 <entry field="true" id="8388872" symbol="SUB_SPORT_MATCH"/>
-<entry field="true" id="47" symbol="id_brum2line"/>
+<entry field="true" id="33" symbol="id_brum2line"/>
 <entry id="8389567" method="true" symbol="getNumberOfTests"/>
 <entry field="true" id="8389456" symbol="WEIGHT_SCALE_STATUS_SEARCHING"/>
 <entry id="8389136" method="true" symbol="getKey"/>
@@ -1187,15 +1127,14 @@
 <entry field="true" id="8389457" symbol="WEIGHT_SCALE_STATUS_SEARCH_TIMEOUT"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry field="true" id="8389273" symbol="searchTimeoutHighPriority"/>
-<entry field="true" id="39" symbol="id_kangenline"/>
-<entry field="true" id="34" symbol="id_shisha"/>
+<entry field="true" id="25" symbol="id_kangenline"/>
 <entry id="8389253" symbol="setPayloadWithOffset"/>
 <entry id="8389479" method="true" symbol="getDeviceState"/>
 <entry field="true" id="8389169" symbol="COLOR_PURPLE"/>
 <entry id="8389180" method="true" symbol="drawPoint"/>
 <entry id="8389260" method="true" symbol="sendBroadcast"/>
 <entry field="true" id="8388862" symbol="SUB_SPORT_HAND_CYCLING"/>
-<entry field="true" id="43" symbol="id_nangaline"/>
+<entry field="true" id="29" symbol="id_nangaline"/>
 <entry id="8389436" object="true" symbol="CalculatedWheelSpeed"/>
 <entry id="8388685" method="true" symbol="testLocationRadians"/>
 <entry field="true" id="8388990" symbol="KEY_POWER"/>
@@ -1254,7 +1193,6 @@
 <entry id="8389341" symbol="days"/>
 <entry field="true" id="8388977" symbol="TONE_CANARY"/>
 <entry field="true" id="8388919" symbol="FORMAT_LONG"/>
-<entry field="true" id="26" symbol="id_lothse"/>
 <entry field="true" id="8389459" symbol="WEIGHT_SCALE_STATUS_RECEIVING"/>
 <entry id="8388903" method="true" symbol="sqrt"/>
 <entry id="8389370" symbol="&lt;swe&gt;"/>
@@ -1265,7 +1203,6 @@
 <entry id="8389434" object="true" symbol="CalculatedTorque"/>
 <entry id="8389351" symbol="&lt;valyrian&gt;"/>
 <entry field="true" id="8389402" symbol="distanceUnits"/>
-<entry field="true" id="50" symbol="id_nobt"/>
 <entry id="8389492" method="true" symbol="getUserProfile"/>
 <entry id="8389021" method="true" symbol="loadResource"/>
 <entry id="8388764" method="true" symbol="format"/>
@@ -1276,7 +1213,7 @@
 <entry field="true" id="8389507" symbol="activityLevel"/>
 <entry id="8388640" module="true" symbol="Lang"/>
 <entry id="8389333" symbol="tuesday"/>
-<entry field="true" id="38" symbol="id_k2westline"/>
+<entry field="true" id="24" symbol="id_k2westline"/>
 <entry field="true" id="8389018" symbol="SWIPE_LEFT"/>
 <entry id="8388682" method="true" symbol="testNaN"/>
 <entry field="true" id="8389444" symbol="WEIGHT_SCALE_GENDER_UNASSIGNED"/>
