@@ -51,9 +51,7 @@ var device_settings;
       dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_BLACK);
       dc.clear();  
 
-
-
-    
+ 
         // Uhrzeit & datum auselsen    
         var clockTime = Sys.getClockTime();
         var dateStrings = Time.Gregorian.info( Time.now(), Time.FORMAT_MEDIUM);
@@ -67,7 +65,7 @@ var device_settings;
          // BERG oder KAMMLINIE ZEICHNEN #############################################################################################################     
         pic_back = null;// FREE MEMORY    
         dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
-        day = 1;    
+         
 		         if ( (day == 1 ) || (day == 15) ){  // everest
                         pic_back     = Ui.loadResource(Rez.Drawables.id_everestline);
                         dc.drawBitmap(1, 42, pic_back); // Berg zeichnen    
@@ -223,8 +221,8 @@ var device_settings;
         var einer = 0; 
         if (hour.toNumber == 1) {einer = 10;}      
         dc.setColor(Gfx.COLOR_RED, Gfx.COLOR_TRANSPARENT);
-        dc.drawText(93 - einer, 40 , Gfx.FONT_NUMBER_THAI_HOT , hour.toString(), Gfx.TEXT_JUSTIFY_CENTER );
-        dc.drawText(91 - einer, 40 , Gfx.FONT_NUMBER_THAI_HOT , hour.toString(), Gfx.TEXT_JUSTIFY_CENTER );
+        dc.drawText(92 - einer, 40 , Gfx.FONT_NUMBER_THAI_HOT , hour.toString(), Gfx.TEXT_JUSTIFY_CENTER );
+        dc.drawText(90 - einer, 40 , Gfx.FONT_NUMBER_THAI_HOT , hour.toString(), Gfx.TEXT_JUSTIFY_CENTER );
         dc.setColor(Gfx.COLOR_DK_RED, Gfx.COLOR_TRANSPARENT);
         dc.drawText(90 + dc.getTextWidthInPixels(hour.toString(), Gfx.FONT_NUMBER_THAI_HOT) -1 , 68 , Gfx.FONT_NUMBER_HOT , min.toString(), Gfx.TEXT_JUSTIFY_CENTER );
         
@@ -323,37 +321,39 @@ var device_settings;
                 dc.drawText(57, 158 , Gfx.FONT_XTINY, stepsGoal.toString() , Gfx.TEXT_JUSTIFY_LEFT);
                 
                 // Movementbar als Lawinen-Schild
-				moveBarLevel = 5;
-                if (moveBarLevel ==1) {
-                    dc.setColor( Gfx.COLOR_GREEN, Gfx.COLOR_GREEN);
+
+
+               
+               if (moveBarLevel >=5) {                
+                    dc.setColor( Gfx.COLOR_DK_RED, Gfx.COLOR_DK_RED);
                     dc.fillRoundedRectangle(156, 160, 22, 22, 3);
-                    dc.setColor( Gfx.COLOR_BLACK, Gfx.COLOR_TRANSPARENT);
-                    dc.drawText(166,160  , Gfx.FONT_MEDIUM, "1" , Gfx.TEXT_JUSTIFY_CENTER);
-                }else if (moveBarLevel ==2) {
-                
-                    dc.setColor( Gfx.COLOR_YELLOW, Gfx.COLOR_YELLOW);
-                    dc.fillRoundedRectangle(156, 160, 22, 22, 3);
-                    dc.setColor( Gfx.COLOR_BLACK, Gfx.COLOR_TRANSPARENT);
-                    dc.drawText(166,162  , Gfx.FONT_MEDIUM, "2" , Gfx.TEXT_JUSTIFY_CENTER);
-                }else if (moveBarLevel ==3) {
-                
-                    dc.setColor( Gfx.COLOR_ORANGE, Gfx.COLOR_ORANGE);
-                    dc.fillRoundedRectangle(156, 160, 22, 22, 3);
-                    dc.setColor( Gfx.COLOR_BLACK, Gfx.COLOR_TRANSPARENT);
-                    dc.drawText(166,170  , Gfx.FONT_MEDIUM, "3" , Gfx.TEXT_JUSTIFY_CENTER);
-                }else if (moveBarLevel ==4) {
+                    dc.setColor( Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
+                    dc.drawText(167,155  , Gfx.FONT_MEDIUM, "5" , Gfx.TEXT_JUSTIFY_CENTER);
+                    
+                }else if (moveBarLevel >=4) {
                 
                     dc.setColor( Gfx.COLOR_RED, Gfx.COLOR_RED);
                     dc.fillRoundedRectangle(156, 160, 22, 22, 3);
                     dc.setColor( Gfx.COLOR_BLACK, Gfx.COLOR_TRANSPARENT);
-                    dc.drawText(166,170  , Gfx.FONT_MEDIUM, "4" , Gfx.TEXT_JUSTIFY_CENTER);
-                }else if (moveBarLevel ==5) {                
-                    dc.setColor( Gfx.COLOR_DK_RED, Gfx.COLOR_DK_RED);
+                    dc.drawText(167,155  , Gfx.FONT_MEDIUM, "4" , Gfx.TEXT_JUSTIFY_CENTER);
+                }else if (moveBarLevel >=3) {
+                
+                    dc.setColor( Gfx.COLOR_ORANGE, Gfx.COLOR_ORANGE);
                     dc.fillRoundedRectangle(156, 160, 22, 22, 3);
-                    dc.setColor( Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
-                    dc.drawText(166,155  , Gfx.FONT_MEDIUM, "5" , Gfx.TEXT_JUSTIFY_CENTER);
-                }  
-                    
+                    dc.setColor( Gfx.COLOR_BLACK, Gfx.COLOR_TRANSPARENT);
+                    dc.drawText(167,155  , Gfx.FONT_MEDIUM, "3" , Gfx.TEXT_JUSTIFY_CENTER);    
+                }else if (moveBarLevel >=2) {
+                
+                    dc.setColor( Gfx.COLOR_YELLOW, Gfx.COLOR_YELLOW);
+                    dc.fillRoundedRectangle(156, 160, 22, 22, 3);
+                    dc.setColor( Gfx.COLOR_BLACK, Gfx.COLOR_TRANSPARENT);
+                    dc.drawText(167,155  , Gfx.FONT_MEDIUM, "2" , Gfx.TEXT_JUSTIFY_CENTER);
+                }else if (moveBarLevel >=1) {
+                    dc.setColor( Gfx.COLOR_GREEN, Gfx.COLOR_GREEN);
+                    dc.fillRoundedRectangle(156, 160, 22, 22, 3);
+                    dc.setColor( Gfx.COLOR_BLACK, Gfx.COLOR_TRANSPARENT);
+                    dc.drawText(167,155  , Gfx.FONT_MEDIUM, "1" , Gfx.TEXT_JUSTIFY_CENTER); 
+                 }  
         } // Ende fast updates
 
 
