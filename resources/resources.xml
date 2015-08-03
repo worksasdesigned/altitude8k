@@ -1,209 +1,270 @@
 <resources>
-    <string id="AppName">altitude8k</string>
+  
+  <string id="AppName">altitude8k</string>
 
 
-    <bitmap id="LauncherIcon" filename="images/launcher_icon.png" />
+ 
+   <bitmap id="LauncherIcon" filename="images/launcher_icon.png" />
+
 <bitmaps>
-		<bitmap id="id_everestline" filename="images/everestline.png"/>
+	
+	<bitmap id="id_everestline" filename="images/everestline.png"/>
+
 
 		 <palette>
-	       
+	
+       
 	<color>FFFFFF</color>
-	     
-  <color>000000</color>
+	
 	     
 	 </palette>
   
-  </bitmaps> 
 
-<bitmaps>
-		<bitmap id="id_chooyuline" filename="images/chooyuline.png"/>
-
-		 <palette>
-	       
-<color>FFFFFF</color>
-	     
-  <color>000000</color>
-	     
-  
-	 </palette>
-  
   </bitmaps> 
 
 
 <bitmaps>
-		<bitmap id="id_dhaulagiriline" filename="images/dhaulagiriline.png"/>
+	
+	<bitmap id="id_chooyuline" filename="images/chooyuline.png"/>
+
 
 		 <palette>
+
 	       
 <color>FFFFFF</color>
-	     
-  <color>000000</color>
+	
+     
+  
+	 </palette>
+ 
+ 
+  </bitmaps> 
+
+
+
+<bitmaps>
+	
+<bitmap id="id_dhaulagiriline" filename="images/dhaulagiriline.png"/>
+
+
+		 <palette>
+
+	       
+<color>FFFFFF</color>
+
 	     
 	  
 	 </palette>
+
   
-  </bitmaps> 
+  </bitmaps>
+ 
 
 
 <bitmaps>
+
 		<bitmap id="id_k2westline" filename="images/k2westline.png"/>
 
-		 <palette>
-	       
+	
+	 <palette>
+	
+       
 <color>FFFFFF</color>
-	     
-  <color>000000</color>
-	     
+	
+     
 	  
 	 </palette>
   
+
+  </bitmaps> 
+
+
+
+<bitmaps>
+	
+	<bitmap id="id_kangenline" filename="images/kangenline.png"/>
+
+
+		 <palette>
+	
+       
+<color>FFFFFF</color>
+
+     
+	  
+	 </palette>
+  
+
   </bitmaps> 
 
 
 <bitmaps>
-		<bitmap id="id_kangenline" filename="images/kangenline.png"/>
+	
+	<bitmap id="id_lothseline" filename="images/lothseline.png"/>
 
-		 <palette>
-	       
+	
+	 <palette>
+	  
+     
 <color>FFFFFF</color>
+	
+     
+ 	  
+	 </palette>
+  
+
+  </bitmaps> 
+
+
+
+<bitmaps>
+		
+<bitmap id="id_makaluline" filename="images/makaluline.png"/>
+
+	
+	 <palette>
 	     
-  <color>000000</color>
+  
+<color>FFFFFF</color>
+	 
 	     
 	  
 	 </palette>
   
-  </bitmaps> 
+ 
+ </bitmaps> 
+
 
 
 <bitmaps>
-		<bitmap id="id_lothseline" filename="images/lothseline.png"/>
+	
+	<bitmap id="id_manasluline" filename="images/manasluline.png"/>
 
-		 <palette>
+	
+	 <palette>
+
 	       
 <color>FFFFFF</color>
-	     
-  <color>000000</color>
+
 	     
  	  
 	 </palette>
   
-  </bitmaps> 
 
-
-<bitmaps>
-		<bitmap id="id_makaluline" filename="images/makaluline.png"/>
-
-		 <palette>
-	       
-<color>FFFFFF</color>
-	     
-  <color>000000</color>
-	     
-	  
-	 </palette>
-  
-  </bitmaps> 
-
+  </bitmaps>
+ 
 
 <bitmaps>
-		<bitmap id="id_manasluline" filename="images/manasluline.png"/>
 
-		 <palette>
-	       
-<color>FFFFFF</color>
-	     
-  <color>000000</color>
-	     
- 	  
-	 </palette>
-  
-  </bitmaps> 
-
-<bitmaps>
 		<bitmap id="id_nangaline" filename="images/nangaline.png"/>
 
-		 <palette>
-	       
+	
+	 <palette>
+	 
+      
 <color>FFFFFF</color>
-	     
-  <color>000000</color>
-	     
+	
+     
 	  
 	 </palette>
   
+
   </bitmaps> 
 
 
+
 <bitmaps>
+
 		<bitmap id="id_annapurnaline" filename="images/annapurnaline.png"/>
 
+
 		 <palette>
+
 	       
 <color>FFFFFF</color>
-	     
-  <color>000000</color>
+
 	     
 	  
 	 </palette>
   
-  </bitmaps> 
+
+  </bitmaps>
+ 
 
 <bitmaps>
+
 		<bitmap id="id_broadpeakline" filename="images/broadpeakline.png"/>
 
+
 		 <palette>
-	       
+	
+       
 <color>FFFFFF</color>
-	     
-  <color>000000</color>
+
 	     
 	  
 	 </palette>
   
+
   </bitmaps> 
 
+
 <bitmaps>
+
 		<bitmap id="id_brum1line" filename="images/brum1line.png"/>
 
+
 		 <palette>
-	       
+	
+       
 <color>FFFFFF</color>
-	     
-  <color>000000</color>
+	    
+ 
+	  
+	 </palette>
+  
+ 
+ </bitmaps> 
+
+
+<bitmaps>
+	
+	<bitmap id="id_brum2line" filename="images/brum2line.png"/>
+
+	
+	 <palette>
+	      
+ 
+<color>FFFFFF</color>
+	   
 	     
 	  
 	 </palette>
   
-  </bitmaps> 
+ 
+ </bitmaps> 
+
 
 <bitmaps>
-		<bitmap id="id_brum2line" filename="images/brum2line.png"/>
+	
+	<bitmap id="id_shishaline" filename="images/shishaline.png"/>
 
-		 <palette>
-	       
-<color>FFFFFF</color>
-	     
-  <color>000000</color>
-	     
+	
+	 <palette>
 	  
-	 </palette>
-  
-  </bitmaps> 
-
-<bitmaps>
-		<bitmap id="id_shishaline" filename="images/shishaline.png"/>
-
-		 <palette>
-	       
+     
 <color>FFFFFF</color>
-	     
-  <color>000000</color>
-	     
+	
+    
   
 	 </palette>
   
-  </bitmaps> 
+  
+</bitmaps>
+
+
+
+ 
 
 
 

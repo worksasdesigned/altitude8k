@@ -1,277 +1,271 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="23" pc="268435458" symbol="onLayout"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="36" pc="268435487" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="37" pc="268435523" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="41" pc="268435535" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="42" pc="268435552" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="43" pc="268435608" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="46" pc="268435608" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="47" pc="268435618" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="48" pc="268435628" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="49" pc="268435638" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="53" pc="268435645" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="54" pc="268435656" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="55" pc="268435712" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="57" pc="268435722" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="58" pc="268435740" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="59" pc="268435765" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="60" pc="268435801" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="61" pc="268435801" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="62" pc="268435817" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="63" pc="268435824" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="64" pc="268435884" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="65" pc="268435944" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="66" pc="268436004" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="67" pc="268436064" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="67" pc="268436072" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="68" pc="268436111" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="68" pc="268436125" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="69" pc="268436164" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="69" pc="268436178" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="70" pc="268436217" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="70" pc="268436231" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="71" pc="268436270" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="71" pc="268436284" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="72" pc="268436323" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="75" pc="268436465" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="76" pc="268436501" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="81" pc="268436531" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="82" pc="268436540" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="83" pc="268436576" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="84" pc="268436601" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="85" pc="268436644" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="86" pc="268436674" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="87" pc="268436685" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="88" pc="268436717" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="89" pc="268436768" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="92" pc="268436862" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="93" pc="268436905" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="94" pc="268436935" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="95" pc="268436946" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="96" pc="268436978" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="97" pc="268437029" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="100" pc="268437123" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="101" pc="268437166" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="102" pc="268437196" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="103" pc="268437207" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="104" pc="268437239" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="105" pc="268437290" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="108" pc="268437384" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="109" pc="268437427" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="110" pc="268437457" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="111" pc="268437468" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="112" pc="268437500" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="113" pc="268437532" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="114" pc="268437583" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="117" pc="268437691" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="118" pc="268437734" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="119" pc="268437764" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="120" pc="268437775" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="121" pc="268437807" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="122" pc="268437839" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="123" pc="268437890" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="127" pc="268437984" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="128" pc="268438027" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="129" pc="268438057" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="130" pc="268438068" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="131" pc="268438100" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="132" pc="268438151" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="135" pc="268438245" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="136" pc="268438288" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="137" pc="268438318" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="138" pc="268438329" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="139" pc="268438361" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="140" pc="268438412" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="143" pc="268438520" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="144" pc="268438563" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="145" pc="268438593" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="146" pc="268438604" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="147" pc="268438636" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="148" pc="268438668" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="149" pc="268438719" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="152" pc="268438813" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="153" pc="268438856" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="155" pc="268438886" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="156" pc="268438897" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="157" pc="268438929" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="158" pc="268438980" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="159" pc="268439043" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="162" pc="268439151" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="163" pc="268439194" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="164" pc="268439224" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="165" pc="268439235" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="166" pc="268439267" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="167" pc="268439299" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="168" pc="268439331" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="169" pc="268439382" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="172" pc="268439476" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="173" pc="268439519" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="174" pc="268439549" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="175" pc="268439560" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="176" pc="268439592" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="177" pc="268439643" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="180" pc="268439737" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="181" pc="268439780" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="182" pc="268439810" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="183" pc="268439821" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="184" pc="268439853" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="185" pc="268439904" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="188" pc="268439998" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="189" pc="268440041" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="190" pc="268440071" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="191" pc="268440082" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="192" pc="268440114" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="193" pc="268440165" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="196" pc="268440259" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="197" pc="268440302" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="198" pc="268440332" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="199" pc="268440343" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="200" pc="268440375" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="201" pc="268440426" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="204" pc="268440495" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="205" pc="268440538" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="206" pc="268440568" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="207" pc="268440579" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="208" pc="268440611" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="209" pc="268440662" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="213" pc="268440728" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="214" pc="268440764" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="215" pc="268440782" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="216" pc="268440793" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="217" pc="268440803" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="218" pc="268440866" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="222" pc="268440932" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="223" pc="268440995" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="225" pc="268441058" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="225" pc="268441069" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="226" pc="268441079" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="227" pc="268441131" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="230" pc="268441186" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="231" pc="268441238" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="235" pc="268441290" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="236" pc="268441297" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="236" pc="268441314" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="237" pc="268441324" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="238" pc="268441360" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="239" pc="268441420" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="240" pc="268441480" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="241" pc="268441516" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="245" pc="268441614" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="246" pc="268441650" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="247" pc="268441650" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="248" pc="268441668" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="250" pc="268441714" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="253" pc="268441757" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="254" pc="268441817" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="257" pc="268441892" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="267" pc="268441903" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="268" pc="268441970" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="271" pc="268442009" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="273" pc="268442045" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="276" pc="268442217" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="280" pc="268442241" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="281" pc="268442260" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="282" pc="268442276" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="283" pc="268442286" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="286" pc="268442296" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="287" pc="268442312" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="289" pc="268442348" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="290" pc="268442399" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="291" pc="268442450" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="292" pc="268442507" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="313" pc="268442564" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="314" pc="268442581" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="315" pc="268442598" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="316" pc="268442637" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="317" pc="268442673" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="318" pc="268442710" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="319" pc="268442746" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="323" pc="268442817" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="324" pc="268442853" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="325" pc="268442890" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="326" pc="268442926" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="329" pc="268442997" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="330" pc="268443033" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="331" pc="268443070" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="332" pc="268443106" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="335" pc="268443177" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="336" pc="268443213" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="337" pc="268443250" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="338" pc="268443286" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="340" pc="268443357" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="341" pc="268443393" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="342" pc="268443430" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="343" pc="268443466" symbol="onUpdate"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="355" pc="268443526" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="356" pc="268443549" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="361" pc="268443562" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="362" pc="268443598" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="363" pc="268443624" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="364" pc="268443660" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="365" pc="268443698" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="368" pc="268443724" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="369" pc="268443735" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="370" pc="268443771" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="371" pc="268443809" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="371" pc="268443820" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="372" pc="268443861" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="372" pc="268443872" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="373" pc="268443913" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="373" pc="268443924" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="374" pc="268443965" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="374" pc="268443976" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="375" pc="268444017" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="375" pc="268444028" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="376" pc="268444066" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="377" pc="268444102" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="380" pc="268444178" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="381" pc="268444214" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="381" pc="268444225" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="382" pc="268444266" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="383" pc="268444302" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="383" pc="268444313" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="384" pc="268444354" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="385" pc="268444390" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="385" pc="268444401" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="386" pc="268444442" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="387" pc="268444478" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="387" pc="268444489" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="389" pc="268444530" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="390" pc="268444553" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="392" pc="268444594" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="395" pc="268444664" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="396" pc="268444675" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="397" pc="268444711" symbol="drawbatt"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="411" pc="268444796" symbol="onExitSleep"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="412" pc="268444806" symbol="onExitSleep"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="417" pc="268444825" symbol="onEnterSleep"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="418" pc="268444835" symbol="onEnterSleep"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kView.mc" lineNum="18" pc="268445163" symbol="&lt;init&gt;"/>
-<entry filename="Z:\\f3\\altitude8k\\source\\altitude8kApp.mc" lineNum="15" pc="268444861" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="5" pc="268445332" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="10" pc="268445193" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="11" pc="268445202" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="12" pc="268445211" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="13" pc="268445220" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="14" pc="268445229" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="15" pc="268445238" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="16" pc="268445247" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="17" pc="268445256" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="18" pc="268445265" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="19" pc="268445274" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="20" pc="268445283" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="21" pc="268445292" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="22" pc="268445301" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="23" pc="268445310" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="24" pc="268445319" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="33" pc="268444902" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="34" pc="268444916" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="35" pc="268445013" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="36" pc="268445028" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="37" pc="268445080" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="38" pc="268445126" symbol="WatchFace"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="38" pc="268435458" symbol="onLayout"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="51" pc="268435487" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="52" pc="268435523" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="56" pc="268435535" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="57" pc="268435552" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="59" pc="268435608" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="61" pc="268435608" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="62" pc="268435618" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="63" pc="268435628" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="66" pc="268435638" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="67" pc="268435647" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="68" pc="268435683" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="73" pc="268435690" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="74" pc="268435715" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="75" pc="268435758" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="76" pc="268435788" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="77" pc="268435799" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="78" pc="268435831" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="79" pc="268435882" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="82" pc="268435976" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="83" pc="268436019" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="84" pc="268436049" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="85" pc="268436060" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="86" pc="268436092" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="87" pc="268436143" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="90" pc="268436237" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="91" pc="268436280" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="92" pc="268436310" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="93" pc="268436321" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="94" pc="268436353" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="95" pc="268436404" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="98" pc="268436498" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="99" pc="268436541" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="100" pc="268436571" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="101" pc="268436582" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="102" pc="268436614" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="103" pc="268436646" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="104" pc="268436697" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="107" pc="268436805" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="108" pc="268436848" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="109" pc="268436878" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="110" pc="268436889" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="111" pc="268436921" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="112" pc="268436953" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="113" pc="268437004" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="117" pc="268437098" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="118" pc="268437141" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="119" pc="268437171" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="120" pc="268437182" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="121" pc="268437214" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="122" pc="268437265" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="125" pc="268437359" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="126" pc="268437402" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="127" pc="268437432" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="128" pc="268437443" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="129" pc="268437475" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="130" pc="268437526" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="133" pc="268437634" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="134" pc="268437677" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="135" pc="268437707" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="136" pc="268437718" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="137" pc="268437750" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="138" pc="268437782" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="139" pc="268437833" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="142" pc="268437927" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="143" pc="268437970" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="145" pc="268438000" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="146" pc="268438011" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="147" pc="268438043" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="148" pc="268438094" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="149" pc="268438157" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="152" pc="268438265" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="153" pc="268438308" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="154" pc="268438338" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="155" pc="268438349" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="156" pc="268438381" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="157" pc="268438413" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="158" pc="268438445" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="159" pc="268438496" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="162" pc="268438590" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="163" pc="268438633" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="164" pc="268438663" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="165" pc="268438674" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="166" pc="268438706" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="167" pc="268438757" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="170" pc="268438851" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="171" pc="268438894" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="172" pc="268438924" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="173" pc="268438935" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="174" pc="268438967" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="175" pc="268439018" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="178" pc="268439112" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="179" pc="268439155" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="180" pc="268439185" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="181" pc="268439196" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="182" pc="268439228" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="183" pc="268439279" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="186" pc="268439373" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="187" pc="268439416" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="188" pc="268439446" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="189" pc="268439457" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="190" pc="268439489" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="191" pc="268439540" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="194" pc="268439609" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="195" pc="268439652" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="196" pc="268439682" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="197" pc="268439693" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="198" pc="268439725" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="199" pc="268439776" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="203" pc="268439842" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="204" pc="268439878" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="205" pc="268439896" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="206" pc="268439907" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="207" pc="268439917" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="208" pc="268439980" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="212" pc="268440046" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="213" pc="268440109" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="215" pc="268440172" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="215" pc="268440183" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="216" pc="268440193" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="217" pc="268440245" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="220" pc="268440300" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="221" pc="268440352" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="225" pc="268440404" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="226" pc="268440411" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="226" pc="268440428" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="227" pc="268440438" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="228" pc="268440474" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="229" pc="268440534" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="230" pc="268440594" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="231" pc="268440630" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="235" pc="268440728" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="236" pc="268440764" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="237" pc="268440764" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="238" pc="268440782" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="240" pc="268440828" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="243" pc="268440871" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="244" pc="268440931" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="247" pc="268441006" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="256" pc="268441017" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="258" pc="268441073" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="259" pc="268441083" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="260" pc="268441119" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="263" pc="268441291" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="264" pc="268441308" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="265" pc="268441340" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="267" pc="268441357" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="268" pc="268441368" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="270" pc="268441418" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="272" pc="268441468" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="274" pc="268441518" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="276" pc="268441557" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="278" pc="268441593" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="280" pc="268441656" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="281" pc="268441667" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="283" pc="268441717" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="285" pc="268441767" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="287" pc="268441817" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="289" pc="268441856" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="292" pc="268441892" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="293" pc="268441955" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="297" pc="268441991" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="301" pc="268442015" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="302" pc="268442034" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="303" pc="268442050" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="304" pc="268442060" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="305" pc="268442070" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="306" pc="268442086" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="308" pc="268442122" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="309" pc="268442135" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="312" pc="268442154" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="313" pc="268442205" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="314" pc="268442256" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="315" pc="268442313" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="321" pc="268442370" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="322" pc="268442387" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="323" pc="268442423" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="324" pc="268442460" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="325" pc="268442496" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="329" pc="268442567" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="330" pc="268442603" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="331" pc="268442640" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="332" pc="268442676" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="335" pc="268442747" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="336" pc="268442783" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="337" pc="268442820" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="338" pc="268442856" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="341" pc="268442927" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="342" pc="268442963" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="343" pc="268443000" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="344" pc="268443036" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="346" pc="268443107" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="347" pc="268443143" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="348" pc="268443180" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="349" pc="268443216" symbol="onUpdate"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="361" pc="268443276" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="362" pc="268443299" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="367" pc="268443312" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="368" pc="268443348" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="369" pc="268443374" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="370" pc="268443410" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="371" pc="268443448" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="374" pc="268443474" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="375" pc="268443485" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="376" pc="268443521" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="377" pc="268443559" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="377" pc="268443570" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="378" pc="268443611" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="378" pc="268443622" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="379" pc="268443663" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="379" pc="268443674" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="380" pc="268443715" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="380" pc="268443726" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="381" pc="268443767" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="381" pc="268443778" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="382" pc="268443816" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="383" pc="268443852" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="386" pc="268443928" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="387" pc="268443964" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="387" pc="268443975" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="388" pc="268444016" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="389" pc="268444052" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="389" pc="268444063" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="390" pc="268444104" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="391" pc="268444140" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="391" pc="268444151" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="392" pc="268444192" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="393" pc="268444228" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="393" pc="268444239" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="395" pc="268444280" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="396" pc="268444303" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="398" pc="268444344" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="401" pc="268444414" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="402" pc="268444425" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="403" pc="268444461" symbol="drawbatt"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="417" pc="268444546" symbol="onExitSleep"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="418" pc="268444556" symbol="onExitSleep"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="423" pc="268444575" symbol="onEnterSleep"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="424" pc="268444585" symbol="onEnterSleep"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="19" pc="268444913" symbol="&lt;init&gt;"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="31" pc="268447327" symbol="&lt;init&gt;"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kView.mc" lineNum="33" pc="268447337" symbol="&lt;init&gt;"/>
+<entry filename="C:\\garmin_projects\\altitude8k-master\\source\\altitude8kApp.mc" lineNum="15" pc="268444611" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="5" pc="268447505" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="10" pc="268447366" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="11" pc="268447375" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="12" pc="268447384" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="13" pc="268447393" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="14" pc="268447402" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="15" pc="268447411" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="16" pc="268447420" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="17" pc="268447429" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="18" pc="268447438" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="19" pc="268447447" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="20" pc="268447456" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="21" pc="268447465" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="22" pc="268447474" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="23" pc="268447483" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="24" pc="268447492" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="33" pc="268444652" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="34" pc="268444666" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="35" pc="268444763" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="36" pc="268444778" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="37" pc="268444830" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="38" pc="268444876" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389359" symbol="&lt;gre&gt;"/>
@@ -281,7 +275,7 @@
 <entry field="true" id="8388974" symbol="TONE_ALARM"/>
 <entry id="8388823" method="true" symbol="emptyMailbox"/>
 <entry id="8388634" module="true" symbol="Ant"/>
-<entry id="13" method="true" symbol="drawbatt"/>
+<entry id="18" method="true" symbol="drawbatt"/>
 <entry field="true" id="8388906" symbol="MOVE_BAR_LEVEL_MAX"/>
 <entry field="true" id="8388737" symbol="calories"/>
 <entry field="true" id="8389205" symbol="MSG_ID_CHANNEL_TRANSMIT_POWER"/>
@@ -320,7 +314,7 @@
 <entry id="8389548" symbol="&lt;tha&gt;"/>
 <entry field="true" id="8388807" symbol="BLE_REQUEST_TOO_LARGE"/>
 <entry id="8388819" method="true" symbol="makeImageRequest"/>
-<entry id="14" module="true" symbol="Menus"/>
+<entry id="19" module="true" symbol="Menus"/>
 <entry id="3" module="true" symbol="globals_Rez_Drawables"/>
 <entry id="8388630" module="true" symbol="Toybox_Position"/>
 <entry id="8389354" symbol="&lt;dut&gt;"/>
@@ -329,7 +323,7 @@
 <entry field="true" id="8388811" symbol="INVALID_HTTP_BODY_IN_REQUEST"/>
 <entry field="true" id="8388750" symbol="currentCadence"/>
 <entry id="8388629" module="true" symbol="Toybox_Application"/>
-<entry field="true" id="17" symbol="id_everestline"/>
+<entry field="true" id="22" symbol="id_everestline"/>
 <entry field="true" id="8389522" symbol="serial"/>
 <entry id="8388944" method="true" symbol="compare"/>
 <entry id="8389019" object="true" symbol="SwipeEvent"/>
@@ -366,7 +360,7 @@
 <entry id="8388659" method="true" symbol="testAbs"/>
 <entry field="true" id="8388989" symbol="dutyCycle"/>
 <entry id="8389043" object="true" symbol="ProgressBar"/>
-<entry field="true" id="31" symbol="AppName"/>
+<entry field="true" id="36" symbol="AppName"/>
 <entry field="true" id="8388927" symbol="SECONDS_PER_YEAR"/>
 <entry id="8389418" object="true" symbol="CommonData"/>
 <entry id="8389114" method="true" symbol="getType"/>
@@ -382,7 +376,7 @@
 <entry id="8389184" method="true" symbol="drawLine"/>
 <entry id="8389250" symbol="timestamp"/>
 <entry id="8388877" method="true" symbol="createSession"/>
-<entry field="true" id="16" symbol="LauncherIcon"/>
+<entry field="true" id="21" symbol="LauncherIcon"/>
 <entry id="8388616" module="true" symbol="Toybox_Communications"/>
 <entry field="true" id="8389380" symbol="OBSCURE_TOP"/>
 <entry field="true" id="8389201" symbol="MSG_ID_SEARCH_TIMEOUT"/>
@@ -471,7 +465,7 @@
 <entry field="true" id="8389153" symbol="FONT_TINY"/>
 <entry id="8389433" object="true" symbol="CalculatedPower"/>
 <entry id="8388932" symbol="getDayHash"/>
-<entry field="true" id="18" symbol="id_chooyuline"/>
+<entry field="true" id="23" symbol="id_chooyuline"/>
 <entry id="8389534" module="true" symbol="PersistedLocations"/>
 <entry id="8389347" symbol="color"/>
 <entry field="true" id="8389156" symbol="FONT_LARGE"/>
@@ -494,7 +488,7 @@
 <entry id="8389142" method="true" symbol="getProfile"/>
 <entry id="8389188" method="true" symbol="fillRectangle"/>
 <entry id="8388729" object="true" symbol="Info"/>
-<entry id="15" module="true" symbol="Layouts"/>
+<entry id="20" module="true" symbol="Layouts"/>
 <entry id="8388710" object="true" symbol="Stats"/>
 <entry field="true" id="8389152" symbol="FONT_XTINY"/>
 <entry id="8389189" method="true" symbol="fillRoundedRectangle"/>
@@ -513,7 +507,7 @@
 <entry id="8389186" method="true" symbol="fillEllipse"/>
 <entry id="8389049" method="true" symbol="pushView"/>
 <entry field="true" id="8389312" symbol="when"/>
-<entry field="true" id="26" symbol="id_annapurnaline"/>
+<entry field="true" id="31" symbol="id_annapurnaline"/>
 <entry id="8389080" method="true" symbol="onMenu"/>
 <entry id="8388956" method="true" symbol="setEnabledSensors"/>
 <entry id="8388619" module="true" symbol="Toybox_ActivityMonitor"/>
@@ -555,7 +549,7 @@
 <entry field="true" id="8389462" symbol="WEIGHT_SCALE_STATUS_CNT"/>
 <entry id="8388716" method="true" symbol="trap"/>
 <entry id="8388652" method="true" symbol="testCreateSession"/>
-<entry field="true" id="22" symbol="id_lothseline"/>
+<entry field="true" id="27" symbol="id_lothseline"/>
 <entry field="true" id="8389396" symbol="UNIT_STATUTE"/>
 <entry field="true" id="8388725" symbol="usedMemory"/>
 <entry field="true" id="8389453" symbol="WEIGHT_SCALE_ACTIVITY_LEVEL_RESERVED"/>
@@ -693,7 +687,7 @@
 <entry id="8389283" method="true" symbol="setProperty"/>
 <entry field="true" id="8389089" symbol="MAX_SIZE"/>
 <entry field="true" id="8389401" symbol="is24Hour"/>
-<entry field="true" id="27" symbol="id_broadpeakline"/>
+<entry field="true" id="32" symbol="id_broadpeakline"/>
 <entry id="8389464" object="true" symbol="WeightScaleBasicReading"/>
 <entry field="true" id="8389145" symbol="wakeTime"/>
 <entry field="true" id="8388938" symbol="month"/>
@@ -728,7 +722,7 @@
 <entry id="8389409" module="true" symbol="Toybox_AntPlus"/>
 <entry field="true" id="8388800" symbol="UNKNOWN_ERROR"/>
 <entry id="8388760" object="true" symbol="Float"/>
-<entry field="true" id="19" symbol="id_dhaulagiriline"/>
+<entry field="true" id="24" symbol="id_dhaulagiriline"/>
 <entry id="8389081" method="true" symbol="onBack"/>
 <entry field="true" id="8389044" symbol="SLIDE_IMMEDIATE"/>
 <entry field="true" id="8388757" symbol="currentHeading"/>
@@ -780,7 +774,7 @@
 <entry id="8388612" module="true" symbol="Toybox_Test"/>
 <entry field="true" id="8389411" symbol="BATT_STATUS_NEW"/>
 <entry id="8389028" object="true" symbol="MenuInputDelegate"/>
-<entry field="true" id="28" symbol="id_brum1line"/>
+<entry field="true" id="33" symbol="id_brum1line"/>
 <entry id="8388705" method="true" symbol="callback"/>
 <entry field="true" id="8389528" symbol="batteryVoltage"/>
 <entry field="true" id="8389314" symbol="latitude"/>
@@ -825,13 +819,15 @@
 <entry field="true" id="8389230" symbol="NETWORK_PLUS"/>
 <entry field="true" id="8389414" symbol="BATT_STATUS_LOW"/>
 <entry field="true" id="8388846" symbol="SPORT_MOUNTAINEERING"/>
-<entry field="true" id="24" symbol="id_manasluline"/>
+<entry field="true" id="29" symbol="id_manasluline"/>
 <entry id="8388908" object="true" symbol="History"/>
+<entry field="true" id="15" symbol="activ_alt"/>
 <entry field="true" id="8388731" symbol="startTime"/>
 <entry field="true" id="8388721" symbol="min"/>
 <entry field="true" id="8389197" symbol="MSG_ID_UNASSIGN_CHANNEL"/>
 <entry id="8389278" symbol="mPropertiesChanged"/>
 <entry field="true" id="8388970" symbol="TONE_ALERT_HI"/>
+<entry field="true" id="16" symbol="pic_bt"/>
 <entry field="true" id="8389174" symbol="TEXT_JUSTIFY_LEFT"/>
 <entry field="true" id="10" symbol="pic_back"/>
 <entry id="8388923" method="true" symbol="today"/>
@@ -925,7 +921,7 @@
 <entry id="8388647" module="true" symbol="UserProfile"/>
 <entry field="true" id="8389011" symbol="CLICK_TYPE_TAP"/>
 <entry field="true" id="8388953" symbol="SENSOR_FOOTPOD"/>
-<entry field="true" id="23" symbol="id_makaluline"/>
+<entry field="true" id="28" symbol="id_makaluline"/>
 <entry field="true" id="8389071" symbol="BEHAVIOR_NONE"/>
 <entry id="8388623" module="true" symbol="Toybox_Sensor"/>
 <entry id="8389397" object="true" symbol="DeviceSettings"/>
@@ -958,7 +954,7 @@
 <entry id="8389086" symbol="mProgressValue"/>
 <entry field="true" id="8389199" symbol="MSG_ID_CHANNEL_ID"/>
 <entry field="true" id="8388836" symbol="SPORT_BASKETBALL"/>
-<entry field="true" id="12" symbol="fast_updates"/>
+<entry field="true" id="13" symbol="fast_updates"/>
 <entry id="8388626" module="true" symbol="Toybox_UserProfile"/>
 <entry id="8388898" method="true" symbol="cos"/>
 <entry id="8389282" method="true" symbol="getProperty"/>
@@ -1056,6 +1052,7 @@
 <entry field="true" id="8389263" symbol="DEFAULT_DEVICE_TYPE"/>
 <entry id="8388728" method="true" symbol="getActivityInfo"/>
 <entry field="true" id="8388751" symbol="averageCadence"/>
+<entry field="true" id="12" symbol="min_array"/>
 <entry field="true" id="8389473" symbol="separatePedalSmoothnessSupport"/>
 <entry field="true" id="8388697" symbol="timer2"/>
 <entry id="8389326" symbol="august"/>
@@ -1093,7 +1090,7 @@
 <entry id="8389022" object="true" symbol="InputEvent"/>
 <entry field="true" id="8389452" symbol="WEIGHT_SCALE_ACTIVITY_LEVEL_6"/>
 <entry field="true" id="8389451" symbol="WEIGHT_SCALE_ACTIVITY_LEVEL_5"/>
-<entry field="true" id="30" symbol="id_shishaline"/>
+<entry field="true" id="35" symbol="id_shishaline"/>
 <entry id="8388711" method="true" symbol="println"/>
 <entry field="true" id="8389450" symbol="WEIGHT_SCALE_ACTIVITY_LEVEL_4"/>
 <entry field="true" id="8389449" symbol="WEIGHT_SCALE_ACTIVITY_LEVEL_3"/>
@@ -1127,7 +1124,7 @@
 <entry field="true" id="8389162" symbol="COLOR_DK_RED"/>
 <entry id="8389512" method="true" symbol="getCalculatedPower"/>
 <entry field="true" id="8388872" symbol="SUB_SPORT_MATCH"/>
-<entry field="true" id="29" symbol="id_brum2line"/>
+<entry field="true" id="34" symbol="id_brum2line"/>
 <entry id="8389567" method="true" symbol="getNumberOfTests"/>
 <entry field="true" id="8389456" symbol="WEIGHT_SCALE_STATUS_SEARCHING"/>
 <entry id="8389136" method="true" symbol="getKey"/>
@@ -1158,14 +1155,14 @@
 <entry field="true" id="8389457" symbol="WEIGHT_SCALE_STATUS_SEARCH_TIMEOUT"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry field="true" id="8389273" symbol="searchTimeoutHighPriority"/>
-<entry field="true" id="21" symbol="id_kangenline"/>
+<entry field="true" id="26" symbol="id_kangenline"/>
 <entry id="8389253" symbol="setPayloadWithOffset"/>
 <entry id="8389479" method="true" symbol="getDeviceState"/>
 <entry field="true" id="8389169" symbol="COLOR_PURPLE"/>
 <entry id="8389180" method="true" symbol="drawPoint"/>
 <entry id="8389260" method="true" symbol="sendBroadcast"/>
 <entry field="true" id="8388862" symbol="SUB_SPORT_HAND_CYCLING"/>
-<entry field="true" id="25" symbol="id_nangaline"/>
+<entry field="true" id="30" symbol="id_nangaline"/>
 <entry id="8389436" object="true" symbol="CalculatedWheelSpeed"/>
 <entry id="8388685" method="true" symbol="testLocationRadians"/>
 <entry field="true" id="8388990" symbol="KEY_POWER"/>
@@ -1175,6 +1172,7 @@
 <entry id="8388882" method="true" symbol="save"/>
 <entry field="true" id="8389527" symbol="operatingTime"/>
 <entry id="8389106" method="true" symbol="getDimensions"/>
+<entry field="true" id="14" symbol="activproz"/>
 <entry id="8388797" method="true" symbol="substring"/>
 <entry id="8389275" method="true" symbol="getApp"/>
 <entry id="8388779" symbol="mMethod"/>
@@ -1186,6 +1184,7 @@
 <entry field="true" id="8388975" symbol="TONE_RESET"/>
 <entry id="8389466" object="true" symbol="WeightScaleCapabilities"/>
 <entry field="true" id="8388954" symbol="SENSOR_HEARTRATE"/>
+<entry field="true" id="17" symbol="pic_nobt"/>
 <entry field="true" id="8389207" symbol="MSG_ID_LIB_CONFIG"/>
 <entry id="8389010" object="true" symbol="KeyEvent"/>
 <entry id="8389553" method="true" symbol="onKeyPressed"/>
@@ -1242,7 +1241,7 @@
 <entry field="true" id="8389507" symbol="activityLevel"/>
 <entry id="8388640" module="true" symbol="Lang"/>
 <entry id="8389333" symbol="tuesday"/>
-<entry field="true" id="20" symbol="id_k2westline"/>
+<entry field="true" id="25" symbol="id_k2westline"/>
 <entry field="true" id="8389018" symbol="SWIPE_LEFT"/>
 <entry id="8388682" method="true" symbol="testNaN"/>
 <entry field="true" id="8389444" symbol="WEIGHT_SCALE_GENDER_UNASSIGNED"/>
